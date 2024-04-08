@@ -7,3 +7,5 @@ A junior student from Duke Kunshan University. Researches focuse on brain comput
 ## About the Repo
 This repo is for assignments from ECON 206 at Duke Kunshan University in Spring 2024, Session 2, taught by Dr. Luyao Zhang.
 ## Table of contents
+[CSEcon](https://github.com/Rising-Stars-by-Sunshine/cs206_Edward_Hu/blob/main/CSEcon/Readme.md)
+[Advance_CSEcom]
