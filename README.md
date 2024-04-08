@@ -1,4 +1,4 @@
-# cs206_Edward_Hu
-![GitHub Logo](https://www.instagram.com/p/C2FJhFyuU0N/)https://www.instagram.com/p/C2FJhFyuU0N/)
+# cs206_Edward_Hu![Nayuta Kani](https://img.moegirl.org.cn/common/0/0d/CSMNayuta.jpg)
+
 
 
